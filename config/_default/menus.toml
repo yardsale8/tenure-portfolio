@@ -9,33 +9,38 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Criterion 1"
+  url = "criterion1/"
   weight = 50
+  
+[[main]]
+  name = "Criterion 2"
+  url = "criterion2/"
+  weight = 51 
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Criterion 3"
+  url = "criterion3/"
+  weight = 52 
+
+[[main]]
+  name = "Criterion 4"
+  url = "criterion4/"
+  weight = 53 
+
+[[main]]
+  name = "Criterion 5"
+  url = "criterion5/"
+  weight = 54
+
+[[main]]
+  name = "Testimonials"
+  url = "testimonials/"
+  weight = 54
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "CV"
-#    url = "media/resume.pdf"
+#    url = "files/cv.pdf"
 #    weight = 70
