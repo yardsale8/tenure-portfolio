@@ -14,10 +14,9 @@ menu:
 weight: 1
 ---
 
-When first joining the faculty as Winona State, I was very excited to learn
-about and contribute to the curriculum of the data science program. Over the
-course of the last four years, I have had a substantial impact on this
-curriculum. 
+Upon joining Winona State, I was very excited to learn about and contribute
+to the curriculum of the data science program. Over the last four years, I
+have had a substantial impact on this curriculum.
 
 In her [letter of support](/testimonial/hooks_letter_of_support.pdf),
 Dr. Hooks stressed these contributions.
@@ -38,28 +37,25 @@ Dr. Hooks stressed these contributions.
 > the larger data science/statistics community are enough to warrant tenure and
 > promotion, but Todd has gone above and beyond to also improve our statistics program. 
 
-As eluded to in Dr. Hook's comments, I have also made contributions to the
+As alluded to in Dr. Hook's comments, I have also made contributions to the
 statistics curriculum, evidenced by the learning applications discussed in
 one of the sections for [criterion 2]({{<ref "/criterion2/software.md">}}),
 the STAT 310 project discussed in the section on [instructional
-innovation]({{<ref "/criterion1/instructional_innovation.md">}}), and my work
+innovation]({{<ref "/criterion1/instructional_innovation.md">}}), as well as my work
 aligning the curriculum of STAT 110 and STAT 210 discussed below.
 
-In informal conversations, Dr. Chris Malone has indicated that he hoped that
-adding me to the faculty would lead to improvements in 
-the data science curriculum in general and students' programming skills in particular. By the
-end of this section, you will have seen evidence of my contributions in both
-of these areas; as well as examples of my contributions made to the
-statistic program.
+In informal conversations, Dr. Chris Malone has indicated that he hoped I
+would improve the data science curriculum in general and programming skills
+of our students in particular. By the end of this section, you will have seen
+evidence of my contributions in both of these areas; as well as examples of
+contributions to the statistic program.
 
 ## Curriculum Development for Data Science
 
 First, I will discuss my primary contributions to the data science
 curriculum, which comes in the form of two new courses and a revamped
-curriculum for the introductory data science course. In the following
-sections, I will discuss the creation of DSCI 330 and DSCI 430, give an
-overview of the revamped DSCI 210 curriculum, and finally discussing my
-efforts to improve students' programming skills throughout these three
+curriculum for the introductory data science course. Finally discussing my
+efforts to improve the programming skills of our students throughout these three
 courses.
 
 ### DSCI 330 – The Management of Unstructured Data
@@ -77,7 +73,7 @@ scraping, natural language processing, and manipulating images/videos/audio
 files.
 
 **Rationale.** This course fills a void in the previous curriculum.
-It is estimated that between 50% and 80% of new data is unstructured (see
+It's estimated that between 50% and 80% of all new data is unstructured (see
 [Unstructured Data and the 80%
 Rule](http://breakthroughanalysis.com/2008/08/01/unstructured-data-and-the-80-percent-rule/).
 Current and future data scientists will rely on the skills needed to gain
@@ -85,10 +81,10 @@ insight from these data sources. Before adding these courses, the program had
 several offerings that provided students with experience working with
 structured data, but there was little exposure to unstructured data.
 
-This course is designed to expose students to the methods and techniques
-necessary to work with unstructured data. Students in the course learn to
-process various types of unstructured data: text, data from the web,
-audio, images, and video.  
+This course was designed to expose students to the methods and techniques
+necessary to work with unstructured data. Upon completion of this course,
+students learn to process various types of unstructured data: text, data from
+the web, audio, images, and video.
 
 My colleague Dr. Silas Bergen sat in on DSCI 330 this fall and had
 the following comments in his [letter of
@@ -103,7 +99,7 @@ support](/testimonial/bergen_letter_of_support.pdf).
 > curriculum. Suffice to say, Dr. Iverson has been a boon for our Data Science
 > program.
 
-All of the material for the course can be found on [the DSCI 330 GitHub
+All course material is available on [the DSCI 330 GitHub
 organization](https://github.com/wsu-DSCI330).
 
 ### DSCI 430 – Data Science at Scale
@@ -122,48 +118,44 @@ Python and/or Scala) and working with several frameworks for distributed
 computation (e.g. Hadoop/MapReduce/Spark).
 
 **Rationale.** This course filled a second void in the previous DSCI curriculum,
-which lacked coverage of working with data on a large scale, that is data
-that is too large to process on a single machine. This is a problem
-with most data science programs, which become apparent when judging data
+which lacked coverage of working with data on a large scale--that is data
+that is too large to process on a single machine. This is a deficiency
+in most data science programs, which became apparent when judging data
 analytics competitions such as MUDAC and MinneMUDAC. I aimed to correct
 this problem with this course.
 
-Students in this course are introduced to working with data at three
-different scales. First, they learn to process data relatively small data
-(i.e. fits in RAM) using the standard Python tools of Pandas and the dfply
-libraries. Next, students work with data that is too large to hold in RAM, but
-can be processed on a single machine using a SQL database. Finally, students
-work with PySpark, which can work with massive amounts of
-data, data so large it must be distributed across the hard drives of many
-machines.
+Students in this course work with data at three different scales. First, they
+process data on a relatively small data (i.e. fits in RAM) using the standard
+Python tools of Pandas and the dfply libraries. Next, students work with data
+that is too large to hold in RAM using SQL. Finally, students work with
+PySpark, which can process massive amounts of data--data so large it must be
+distributed across many machines.
 
 In the process of working with these three different platforms, we reinforce
-an idea that was first introduced in DSCI 210, that is "it's all the
-same stuff"--that data management is translating the same general processes
-to different platforms. While I am in the processes of updating the material for
-this semesters class, the materials from the 2019 course can be found on the
-[DSCI 430 GitHub page](https://github.com/yardsale8/DSCI430).
+an idea introduced in DSCI 210--that data management involves translating the
+same general processes to different platforms. While I am in the processes of
+updating the material for this semesters class, the materials from the last
+iteration of the course is available on the [DSCI 430 GitHub
+page](https://github.com/yardsale8/DSCI430).
 
 ### Teaching Students to Write Better Code
 
-The secondary aim of these courses was to introduce students to a new
-programming language and improve their programming skills. Strong programming
-skills are a requirement for data scientists. Trends in data science tend to
-move quickly and future data scientists must be exposed to many programming
-languages and develop the ability to learn new languages or platforms.
-Furthermore, developing the ability to write clean, correct, and
-well-documented code will make students more efficient and valuable members
-of a team.
+Strong programming skills are a requirement for data scientists and a
+secondary aim of these courses improving programming skills. Trends in data
+science tend to move quickly. I believe that future data scientists should
+be exposed to several programming languages and develop the ability to learn
+new languages or platforms. Furthermore, developing the ability to write
+clean, correct, and well-documented code will make students more efficient
+and valuable members of a team.
 
-To meet these aims, course material in DSCI 330 and DSCI 430 is supplemented
-with lectures on writing better code, including selecting good names, writing
-unit tests and proper documentation, and refactoring to clean up code. Also,
-students are introduced to the data science modern toolset, including
-technologies such as git, GitHub, Jupyter notebooks, and Docker.  I am pleased
-to say that I have had multiple students thank me for helping them become
-better programmers. For example, here is an email I received from Shane Will,
-who graduated with a double major in computer science and data science,
-shortly after taking my course.
+Consequently, I have supplemented the course material in DSCI 330 and DSCI
+430 with lectures on writing better code. Topics include selecting good
+names, writing unit tests, proper documentation, and refactoring code.
+Students are introduced to state-of-the-art technologies such as git, GitHub,
+Jupyter notebooks, and Docker. I am pleased to say that I have had multiple
+students thank me for improving their programming skills. For example,
+here is an email from Shane Will, who graduated with a double major in
+computer science and data science, sent shortly after taking my course.
 
 > Good Evening Dr. Iverson,
 
@@ -175,9 +167,9 @@ shortly after taking my course.
 
 > Shane Will
 
-Another recent data science graduate, Mariah Quam, in her [letter of
-support](/testimonial/quam_letter_of_support.pdf) for this proposal, had to
-say after taking three of my programming course (including DSCI 330 and 430).
+In her [letter of support](/testimonial/quam_letter_of_support.pdf), Mariah
+Quam had this to say about the experience of taking three of my programming
+course.
 
 > There are specifically three coding classes I took with Professor Iverson
 > that allowed me to accrue exponential growth in my coding ability. Through
@@ -193,41 +185,41 @@ say after taking three of my programming course (including DSCI 330 and 430).
 > definition of going the extra mile when it comes to teaching students the
 > process of coding.
 
-Finally, it should be noted that I presented some of these ideas at SDSS
-2019, which is discussed [elsewhere]({{<ref "criterion2/presentations.md">}}).
+I presented some of these ideas at SDSS 2019, which is discussed
+[elsewhere]({{<ref "criterion2/presentations.md">}}).
 
 ### Implementation of a Project-Based and Concept-Driven Curriculum for DSCI 210
 
-Developing the two new DSCI courses, as well as advising and judging with
-students in data analytics competitions, had the added benefit of clarifying
-what data science is all about and formalizing a set of beliefs in how it
-should be taught. A summary of these beliefs follows.
+Developing the two new DSCI courses and advising and judging with students in
+data analytics competitions had the added benefit of clarifying what data
+science is all about. These experiences have allowed me to formalize a set of
+beliefs on data science curriculum and pedagogy. A summary of these beliefs follows.
 
-**Software-agnostic data management.** Many books and courses on data science focus
-on teaching specific technologies or platforms, but we focus on giving students
-a general abstract vocabulary for solving data management and visualization
-tasks, then translating this language to specific technologies. DSCI 210 now
-incorporates this approach by teaching data management verbs, then
-translating these verbs to JMP, OpenRefine, and R.
+**Software-agnostic data management.** Many books and courses on data science
+focus on teaching specific technologies or platforms. Instead, we should
+provide students with a general abstract vocabulary for solving data
+management and visualization tasks. This language is subsequently to
+several technologies. DSCI 210 now incorporates this approach by teaching
+data management verbs, then translating these verbs to JMP, OpenRefine, and
+R.
 
-**Honoring the 80%.** It is often noted that a data scientist will
-spend 80% of their time managing data and only 20% of their time later
+**Honoring the 80%.** It has been noted that a data scientist will
+spend 80% of their time managing data, with the other 20% devoted to
 analyzing the data. While many courses devote much of their time to teaching
-the tools for the final analyses, we believe that data curriculum should
-*honor the 80%*, that is provide substantial and focused training that
-prepares them for this 80% of their work life. While DSCI 210 still provides
-an introduction to data visualization and statistical learning, a majority of
-the curriculum is devoted to data management.
+the tools for the final analyses, I believe that data curriculum should
+*honor the 80%*, that is, provide substantial and focused training that
+prepares students for 80% of their work life. While DSCI 210 still provides
+an introduction to data visualization and statistical learning, much of
+the curriculum is now devoted to data management.
 
-**Project-based learning.** Finally, we believe students learning is
-*reinforced by tackling complicated problems. To facilitate this learning,
-*DSCI 210 now includes multiple projects that allow students to apply what
-*they have learned to real-world problems, as well as practice presenting
-*their findings.
+**Project-based learning.** Finally, I believe student learning is
+reinforced by tackling complicated problems. To facilitate this form of
+learning, DSCI 210 now includes multiple projects that allow students to
+apply what they have learned to real-world scenarios, as well as practice
+presenting their findings.
 
-Over the last two years, I had the opportunity to incorporate these into a
-revamped curriculum for DSCI 210, the introductory course in data
-science.  After polishing the new curriculum over two semesters, I handed the course off to my colleague Dr. Silas Bergen, who had this to say about the results.
+After polishing this new curriculum over two semesters, I handed the course
+off to my colleague Dr. Silas Bergen, who had this to say about the results.
 
 > I will specifically speak to my own personal experience teaching DSCI 210,
 > our introductory Data Science course, for the first time in Fall 2019. When
@@ -253,10 +245,10 @@ science.  After polishing the new curriculum over two semesters, I handed the co
 > all aspects of our curriculum, from management of structured data to data
 > visualization.
 
-Last semester, I had the opportunity to teach DSCI 210 again; this time
-taking advantage of the excellent additions added by Dr. Bergen. The course
-is finally in an excellent place, as evidenced by the following student
-evaluation comments.
+Last semester, I had the opportunity to teach DSCI 210 again. This time I was
+able to take advantage of the excellent additions added by Dr. Bergen and
+I have found that DSCI 210 is in an excellent place, as evidenced by the following
+student evaluation comments.
 
 * *"I really enjoyed this class and ending up adding Data Science to be my second major. I thought you did a wonderful job teaching and I feel like I learned so many useful tools to apply to my other studies in this class. Thank you so much!"*
 * *"This course made me consider getting a major in DSCI. I HIGHLY HIGHLY recommend this course to other students."*
@@ -265,48 +257,46 @@ evaluation comments.
 ## Curriculum Development for Statistics
 
 Finally, I would like to highlight some of the curricula I developed for the
-statistics program. In addition to the project I developed for STAT 310 in the
+statistics program. In addition to the project developed for STAT 310 in the
 section on [instructional innovation]({{<ref
 "/criterion1/instructional_innovation.md">}}), I also spent some time
-aligning the curriculum between my STAT 110 and STAT 210 courses, in an
-attempt to better understand issues with substituting one course for another.
+aligning the curriculum between my STAT 110 and STAT 210 courses in an
+attempt to understand issues with substituting one course for another.
 
 ### Creating a Bridge Between STAT 110 and STAT 210 Curriculum
 
-I am always looking for efficiencies in the implementation of the many class
-preparations. One semester, I had two sections of STAT 210 on the same day as a
-STAT 110 section and I determined that these courses could be designed to
-share about 80% of the same content, meaning that for 80% of these courses
-could be considered a single preparation.
+I am always looking to improve efficiency when implementing my classes. One
+semester, I had two sections of STAT 210 on the same day as a single STAT 110
+section. I wanted to streamline the delivery of both courses. 
 
 Before the semester, I mapped out the semester for both courses, lining up
-the material on as many days as possible. Then adjustments were made to keep
-the courses on the same schedule while finding room for the additional
-material in STAT 210. This alignment was accomplished through additional
-out-of-class activities in STAT 210 using presented through online videos
-and/or adding additional practice activities for STAT 110.
+the material on as many days as possible. I determined that these courses
+shared about 80% of the same content. I adjusted the sequencing of topics to
+keep the courses on the same schedule. I implemented the added material
+in STAT 210 using out-of-class activities that incorporated online videos
+and additional practice activities.
 
-Written assessments were constructed in the same vein. Each written
+I constructed written assessments in the same vein. Each written
 assignment shared 4 questions, while the STAT 210 assignments had a
 5th question that covered the additional material not covered in STAT
 110. Both courses used the same set of practice and regular quizzes.
 
 This approach was a success in two ways. First, I (almost) made it through
-that semester with my sanity in tack, but I realized that there is another
-advantage to going through the process of aligning these courses. Frequently,
-students that have taken STAT 110 will change to a major or minor that
-requires STAT 210. In the past, the statistic faculty had a process for
-converting a STAT 110 to STAT 210 (a test), but that approach is lost to
-time. The following semester, I piloted using the supplementary material
-developed for STAT 210 as a “course packet” that completed by one of my
-former STAT 110 students that need STAT 210 after a change of major. In the
-end, the statistic subgroup decided on an alternative route, I am grateful
-for the chance to gain a better understanding of the relationship between
-these courses.
+that semester with my sanity in tack. There is another advantage to going
+through the process of aligning these courses. Students that change to a
+major that requires STAT 210 have a problem if they have previously completed
+STAT 110: You cannot count both toward graduation.
+
+In the past, the statistic faculty had a process for converting a STAT 110 to
+STAT 210 (a test), but that mechanism is lost to time. After aligning these
+two courses, I piloted using the supplementary material developed for STAT
+210 as a mechanism for satisfying a STAT 210 requirement, where students
+complete the additional activities and assessments designed for STAT 210 and
+are receive a course substitution upon completion. 
 
 ## Summary
 
 In this section, you have seen evidence of substantial and meaningful
 contributions to the curriculum of both the data science and statistics
-programs, as well as evidence of my efforts to improve the coding skills of
+programs, as well as evidence of efforts to improve the coding skills of
 students.

@@ -14,29 +14,37 @@ menu:
 weight: 1
 ---
 
-I have placed a lot of value on feedback from student evaluations and I have
-tried to illustrate how I use this feedback throughout the portfolio. For
-example, in-depth evaluation of student feedback related to the flipped
-classroom in [the section building student-centered curricula]({{<ref
-"/criterion4/student_centered.md">}}). 
+#### Effective Course Design
+
+As evidence of effective course design in a wide variety of statistics and
+data science topics, I present the complete set of student evaluations from
+my tenure at Winona State. A quick perusal of these should convince the
+reader that I provide noteworthy instruction in many content areas.
+
+#### More on Student Evaluations
+
+I place a lot of value on feedback from student evaluations. I have examples
+of how I incorporate and respond to student feedback is illustrated
+throughout the portfolio, for example, in the in-depth evaluation of student
+feedback related to the flipped classroom in [the section building
+student-centered curricula]({{<ref "/criterion4/student_centered.md">}}).
 
 {{< figure src="/img/STAT110_evals_instructor.png" title="**Figure 1.** Student responses to questions about the instructor from all regular sections of STAT 110 from Fall 2016 to Fall 2020 (excluding summer courses).  A large majority of the students agreed or strongly agreed that the instructor was available, cared, and enthusiastic; as well as providing clear explanations, effective teaching, and helpful answers.">}}
 
-One of the other areas of my student evaluations to which I pay particular
-attention. The first is the block of questions devoted to the instructor of
-the course. **Figure 1** shows the student responses from all spring and fall
-STAT 110 sections from 2016-2020. As you can see, the majority of the students
-were pleased with the instruction in the course.
+One other important area of student evaluations is the block of
+questions devoted to rating the instructor. **Figure 1** shows the
+student responses from all spring and fall STAT 110 sections from 2016-2020.
+As you can see, the majority of the students were pleased with the
+instruction in the course.
 
 While I am focusing on STAT 110 here (the course that I have taught the
 most both in terms of sections and students), you will find similar responses
-in the reports for most classes, which are provided in the next section.
+in the reports for most classes.
 
 #### Links to All Student Evaluations
 
 Below you will find links to the student evaluations for all[^1] of my
-courses. A more thorough evaluation of these results will be providing
-as part of my tenure and promotion applications.
+courses. 
 
 **DSCI 210**
 

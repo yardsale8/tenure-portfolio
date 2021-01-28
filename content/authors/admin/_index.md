@@ -66,9 +66,9 @@ user_groups:
 
 I present this online portfolio in support of my application for tenure and
 promotion to the rank of Associate Professor in the Department of Mathematics
-and Statistic. This portfolio will differ from most, in that I came to Winona
-State as an experienced teacher. I have accumulated nearly 20 years of
-teaching experience and was been granted tenure and promoted to Associate
+and Statistic. This portfolio will differ from most. I came to Winona
+State University as an experienced teacher, having accumulated nearly 20 years of
+teaching experience and holding tenure and the ranks of Associate
 Professor and Chair of the Department of Mathematics, Computer Science, and
 Statistics at Saint Mary's University of Minnesota.
 
@@ -77,8 +77,7 @@ the opportunity to join the statistics and data science faculty at Winona
 State was too good to pass up. Over the last four and a half years, I have
 been able to complement and improve the data science program at Winona State
 using my training as a statistician, previous research in machine learning,
-and experience teaching programming. I also will provide evidence of
-sustained growth and excellence in all the other activities--quality
-instruction, service, scholarship, continuing education, and a dedication to
-student growth--need to succeed as a faculty member at a 4-year liberal arts
-university.
+and experience teaching programming. Additionally, I have sustained growth
+and excellence in all the other activities--quality instruction, service,
+scholarship, continuing education, and a dedication to student growth--needed
+to succeed as a faculty member at a 4-year liberal arts university.
