@@ -36,9 +36,7 @@ default settings (**Figure 1**)
 
 
 
-{{< figure src="/img/caption2.png" title=" **Figure 2**. While machine
-captioning does a pretty good job of translation, it has trouble translating
-math and has no way of knowing that “jump” is JMP. ">}}
+{{< figure src="/img/caption2.png" title="**Figure 2**. While machine captioning does a pretty good job of translation, it has trouble translating math and has no way of knowing that *jump* is JMP. ">}}
 
 While machine captioning is a good place to start, it has trouble
 translating technical terms (e.g. standard deviation) or JMP (the
