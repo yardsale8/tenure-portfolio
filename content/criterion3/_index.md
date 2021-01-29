@@ -21,10 +21,10 @@ menu:
     weight: 1
 ---
 
-The state of the art in data science evolves at a rapid pace and I go to
-great lengths to make sure that my data science courses include the most
-modern tools and procedures, be it building fast, easy-to-use educational web
-applications or cutting-edge data management tools. In her [letter of
+State of the art in data science evolves at a rapid pace. I go to great
+lengths to ensure that my data science courses include the most modern tools
+and procedures, be it building fast, easy-to-use educational web applications
+or cutting-edge data management tools. In her [letter of
 support](testimonals/quam_letter_of_support.pdf), Mariah Quam--a recent data
 science graduate--spoke to my willingness to incorporate new technologies in
 my courses.
@@ -41,12 +41,11 @@ my courses.
 
 
 Keeping oneself up-to-date with a rapidly-evolving field requires an ongoing
-course of study, be it formal coursework or self-guided study. In this
-section, I will highlight my efforts to expand my knowledge and stay current
-in the expanding field of data science. By the end of the section, readers
-will have seen substantial evidence of continuing preparation and study in
-the form of
+course of study, be it formal coursework or self-guided study. This section
+will highlight my efforts to expand my knowledge and stay current in data
+science's growing discipline and provide readers will have seen substantial
+evidence of continuing preparation and study in the form of
 
 * participating in [continuing education courses, and/or formal education/study]({{<ref "continuing_education.md">}}), 
-* engaging in a [structured study leading to the development of experimental programs, curricular proposals or revisions, and ongoing revisions to course syllabi or instructional methods reflecting currency in the discipline or its pedagogy]({{<ref "other_structured_study.md">}}), and 
+* engaging in a [structured study leading to the development of experimental programs, curricular proposals or revisions, and ongoing modifications to course syllabi or instructional methods reflecting currency in the discipline or its pedagogy]({{<ref "other_structured_study.md">}}), and 
 * attending [professional meetings and conferences]({{<ref "meetings_and_conferences.md">}}) (See Appendix G of the Master Agreement).
