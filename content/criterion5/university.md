@@ -28,7 +28,7 @@ courses, three revised courses, and nine program revisions. I have been
 working with the Curriculog Work Group on improving the process of proposing
 changes to courses and programs.
 
-I asked Craig Upright, chair of Academic Affairs and Curriculum Committee, to speak to my service as co-chair of CPPS this year.  Here is some of what he had to say in his [email of support](./testimonial/upright_CPPS_email.pdf).
+I asked Craig Upright, chair of Academic Affairs and Curriculum Committee, to speak to my service as co-chair of CPPS this year.  Here is some of what he had to say in his [email of support](/testimonial/upright_CPPS_email.pdf/).
 
 > I want to extend my thanks to you (and to Jason Kight) for co-chairing CPPS
 > this year. This committee plays such a vital role in our faculty curriculum
