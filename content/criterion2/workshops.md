@@ -21,25 +21,24 @@ the category of growth of peers and other scholars (See Appendix G of the
 Master Agreement) and constitute a major part of my scholarly and creative
 output since joining the Department of Mathematics and Statistics in 2016.
 
-I will start with a discussion of the USCOTS 2019 pre-conference workshop
-decimating the WSU core data science curriculum that was presented by all six
-data science faculty. I took the leadership role in conceptualizing,
-proposing, and organizing the program for the workshop and there is evidence
-of a resounding success. I see this workshop as the crowning jewel in this
-area.
+I will discuss the USCOTS 2019 pre-conference workshop disseminating the WSU
+core data science curriculum presented by all six data science faculty. I
+took the leadership role in conceptualizing, proposing, and organizing the
+workshop's program, and there is evidence of a resounding success. I see this
+pworkshop as the crowning jewel in this area.
 
-The section is rounded out with a discussion of a sequence of three workshops
-on data visualization that I planned and executed with my colleague Dr. Silas
+I will round out this section by discussing a sequence of three workshops on
+data visualization that I planned and executed with my colleague Dr. Silas
 Bergen. The opportunity to present three workshops on similar content allowed
-us the opportunity to hone the content and delivery, and resulting in a
-polished and successful workshop at SDSS 2019.
+us to hone the content and delivery and result in a polished and successful
+workshop at SDSS 2019.
 
 By the end of this section, you will see ample evidence of meaningful
 contribution to the scholarly growth of peers and other scholars.
 
 ## A Core Curriculum for Undergraduate Data Science, USCOTS 2019, College Station, PA
  
-{{< figure src="/img/uscots19_core_banner.png" title="**Figure 1.** The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. On top of being in charge of the original proposal and the subsequent organization and division of labor, I also contributed to half of the design and implementation of sessions .">}}
+{{< figure src="/img/uscots19_core_banner.png" title="**Figure 1.** The entire WSU data science faculty presented our core data science curriculum in a 2-day pre-conference workshop at USCOTS 2019. I created the original proposal and the subsequent organization, and I also contributed to half of the design and implementation of sessions">}}
 
 For years, the data science faculty at WSU have been expressing a desire to
 share our DSCI curriculum with a larger audience. In January of 2018, five of
@@ -47,14 +46,14 @@ these faculty attended a workshop on data science curriculum. Our takeaway
 was we have a head start on the conceptualization and development of data
 science curriculum and should find a venue to share what we have learned.
 
-Based on our many discussions on this topic, I submitted a proposal for a
-16-hour pre-conference workshop at USCOTS 2019 ([available
+Based on our many discussions on this topic, my proposal for a 16-hour
+pre-conference workshop at USCOTS 2019 ([available
 here](https://docs.google.com/document/d/1VBNfOcqOWcI8C5cVFfuV9Jy7s2FajHGcrCiRgzX0hck/edit?usp=sharing))
-that was ultimately accepted. The resulting workshop consisted of 4 four-hour
+was ultimately accepted. The resulting workshop consisted of 4 four-hour
 sessions, one dedicated to each of the following topics: the introductory
 course, data visualization, the management of data, and statistical learning
-theory. We believe that these four topics should form the core of any
-data science curriculum and hoped to convince the audience that all programs
+theory. We believe that these four topics should form the core of any data
+science curriculum and hoped to convince the audience that all programs
 should include courses on each.
 
 {{< figure src="/img/uscots19_core_block_1_and_3.png" title="**Figure 2.** The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.">}}
@@ -67,18 +66,19 @@ activities.
 
 Finally, I would like to highlight our success on two additional goals by focusing on some responses to the questions *What were the most valuable aspects of the workshop?* (**Most Valuable:** ) and *If you were to implement one thing from the workshop, what would that be?* (**Implement**). 
 
-First, we wanted to make it clear that data science was a science
-in its own right and it is not sufficient to simply bundle up existing data science and statistic courses. The following comments suggest that we hit the mark. 
-
+First, we wanted to clarify that data science was a science in its own right,
+and it is not sufficient to bundle up existing data science and statistic
+courses. The following comments suggest that we hit the mark.
+:w
 * **Most Valuable:** "*For me, the most valuable aspect was to learned what is data science and how to teach it. As a statistician I never thought about the cleaning and manipulation of data, only when necessary. So it is interesting to see part of a course dedicated to this*"
 * **Most Valuable:** "*breaking several myths and pre-conceived notion I have about data science being a statistician*"
 * **Most Valuable:**"*All aspects of the workshops are very valuable. The understanding that DS should not be just a combination of stats courses and CS courses is new to me, and a great advice.*"
 * **Implement:**"*The most important takeaway I got from this workshop is the philosophy of teaching data science--the fact that it is distinct from statistics and the importance of understanding data science ideas apart from a particular programming language. I hope to help my school build a DS program that is more than a repackaging of existing math/stat/comp. science courses.*"
 
-Next, we think that it is important to develop curriculum *software or
+Next, we think that it is essential to develop curriculum *software or
 technology agnostic*. Instead of teaching a specific technology, you should
-instead teach core concepts, and then translate them to various platforms.
-The following comments suggest we were also successful getting this idea
+instead teach core concepts and then translate them to various platforms. The
+following comments suggest we were also successful in getting this idea
 across.
 
 * **Most Valuable:** "*Loved the software agnostic activities and want to incorporate that more into our courses!*"
@@ -91,7 +91,7 @@ across.
 
 In the end, we hoped that we could put together a workshop that provides value
 and insight on the creation of a data science program. Responses to the
-participant survey, in particular the participant ratings on the overall workshop shown
+participant survey, in particular, the participant ratings on the overall workshop shown
 in **Figure 3** and the comments highlighted above suggest that we were very
 successful.
 
@@ -110,12 +110,12 @@ In May 2017, Dr. Silas and I ran a [USCOTS pre-conference
 workshop](https://www.causeweb.org/cause/uscots/uscots17/workshop/2) that
 took the participants through the entire data cycle. In the first half of the
 workshop ([material available
-here](https://github.com/WSU-DataScience/USCOTS2017_workshop)) I taught the
+here](https://github.com/WSU-DataScience/USCOTS2017_workshop)), I taught the
 participants focused on teaching the basics of the Python programming
-language, followed by the basics of web scraping. After the participants had a
-handle on basic Python tools, they were introduced to scraping the web using
-the Beautiful Soup module. Then, they learned the basic theory around
-visualization, which was subsequently applied to the data from the Current
+language, followed by the basics of web scraping. After the participants had
+a handle on basic Python tools, I introduced them to web scraping using the
+Beautiful Soup module. Then, they learned the basic theory around
+visualization, which they applied to the data from the Current
 using Tableau.
 
 {{< figure src="/img/uscots17.png" title="**Figure 5.** Almost all participants found my portion of the workshop useful.">}}
@@ -185,7 +185,7 @@ positive and two on suggested improvements.
 * “*I felt the Python portion was a little fast-paced, but I was able to catch up on the breaks.*” 
 * “*A lot of material to cover in the time allotted. It could be longer or the two topics could even be split into two workshops*,” 
 
-The last comment, in particular, rang true and we have taken this feedback to heart
+The last comment, in particular, rang true, and we have taken this feedback to heart
 in subsequent workshops by shifting the entire focus to data visualization.
 
 #### Data Visualization Theory and Pedagogy, ICOTS 2018, Kyoto, Japan
@@ -196,25 +196,27 @@ In July of 2018, Dr. Silas Bergen and I presented a workshop on the
 foundation of data visualization theory and pedagogy at [ICOTS
 2018](http://icots.info/10/?workshop=E) in Kyoto, Japan. In contrast to our
 first workshop, which blended two separate topics over four 4-hour blocks,
-this time we devoted our time exclusively to data visualization. We focused
+this time, we devoted our time exclusively to data visualization. We focused
 on three components of visualization: the grammar of graphics, the elementary
 perceptional task, and graphic design gestalt principles throughout
-four 1-hour sessions. While we had a very low response rate, the results of a
+four 1-hour sessions. While we had a low response rate, the results of a
 participant survey are available here: [Participant
 Survey](https://ql.tc/e3IGkD).
 
 {{< figure src="/img/icots18_block2.png" title="**Figure 7.** I developed and ran the second block of the workshop, which compare introduced visualization in Altair (Python) in hopes of reinforcing the concepts of the grammar of graphics introduced in the first block.  This portion of the workshop was not as well-received as I would like, but I was improved the following year (see **Figure 9**)">}}
 
-I was in charge of the second block, which was designed to reinforce the
-concepts from the grammar of graphics by constructing visualizations using
-the Altair in Python. Unfortunately, this part of the workshop was not as
-well-received as I would like. The pacing of this block was off,
-resulting in spending too much time "in the weeds" and not enough looking at interesting visualizations.  The effect of this mismanagement of time can be seen in the participant responses in **Figure 7** as well as the comments provided below.
+I was in charge of the second block, which I designed to reinforce the
+Grammar of Graphics concepts by constructing visualizations using the Altair
+in Python. Unfortunately, this part of the workshop was not as well-received
+as I would like. This block's pacing was off, resulting in spending too much
+time "in the weeds" and not enough looking at interesting visualizations. You
+can see the effect of this mismanagement of time in the participant responses
+in **Figure 7** and the comments provided below.
 
 * "*I wasn't particularly interested in learning Python, so have less opinion about that. I wasn't quite sure how the Python portion and Tableau portion fit together*"
 * "*A little less detail on inner workings of Python, so we would have time to get more interesting graphs.*"
 
-Luckily, I was able to address these issues in a workshop the following summer (see below).
+Luckily, I addressed these issues in a workshop the following summer (see below).
 
 #### Data Visualization Theory and Pedagogy, SDSS 2019, Belleview, WA
 
@@ -222,14 +224,18 @@ Luckily, I was able to address these issues in a workshop the following summer (
 
 Dr. Bergen and I were invited to present our workshop on data visualization
 at a [pre-conference workshop for SDSS
-2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/Program.cfm).
-This was our second time presenting this workshop (see above), and we made a
-number of improvements.
+2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/Program.cfm),
+which was our second time presenting this workshop (see above), and we made several improvements.
 
 {{< figure src="/img/sdss19_block2.png" title="**Figure 9.** Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.">}}
 
 Based on participant feedback from the last workshop, I made several changes
-to the second block of the workshop. Instead of getting bogged down in the details of Python and Altair, participants compared the code for visualizations constructed with the Altair in Python and ggplot in R. This was a more successful approach (compare **Figures 7 & 9**).  Full results of the participant survey are [available here](https://ql.tc/zcaZSK) and I have provided a number of positive responses below.
+to the workshop's second block. Instead of getting bogged down in Python and
+Altair's details, participants compared the code for visualizations
+constructed with the Altair in Python and ggplot in R. This was a more
+successful approach (compare **Figures 7 & 9**). The participant survey's
+full results are [available here](https://ql.tc/zcaZSK), and I have provided
+several positive responses below.
 
 **Select responses to "What were the most valuable aspects of the workshop?"**
 * "*... I also really liked learning how to use ggplot in Python, altair, and Tableau. I felt like the examples and activities used in the teaching sessions were well structured and I took away some good tips to use in my teaching.*"
@@ -242,7 +248,6 @@ to the second block of the workshop. Instead of getting bogged down in the detai
 
 ## Conclusion
 
-Throughout this section, evidence was provided of a successful, well-received
-series of workshop that provided an avenue to decimate the data science
-curriculum developed at WSU and contributed to the growth of my fellow data
-science educators.
+Throughout this section, I provided evidence of successful, well-received
+workshops that provided an avenue to disseminate the data science curriculum
+developed at WSU and contributed to my fellow data science educators' growth.
