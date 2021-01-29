@@ -30,9 +30,7 @@ namely experienced software engineers, had to say about clean code. In this
 section, I will discuss two presentations that shared what I have learned..
 
 ### Evaluating Name, Southern MN Stat Chat at St. Olaf College, April 26, 2019
-{{< figure src="/img/names.png" title="**Figure 1.** I shared what I have
-learned about evaluating the quality of variable and function names at the
-Southern MN Stat Chat.">}}
+{{< figure src="/img/names.png" title="**Figure 1.** I shared what I have learned about evaluating the quality of variable and function names at the Southern MN Stat Chat.">}}
 
 My first talk, presented at the Southern MN Stat Chat at St. Olaf College,
 April 26, 2019, on clean code focused on evaluating the quality of variable
