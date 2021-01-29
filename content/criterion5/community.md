@@ -14,8 +14,8 @@ menu:
 weight: 2
 ---
 
-First, I would like to highlight three contributions to the mathematics,
-statistics, and data science education community.
+First, I would like to highlight three contributions to the education
+communities in mathematics, statistics, and data science.
 
 ### USCOTS 2021 Planning Committee
 
@@ -23,38 +23,37 @@ statistics, and data science education community.
 
 As discussed in a [section on criterion 2]({{<ref
 "/criterion2/workshops.md">}}), I have conducted several workshops on
-teaching data science, two of which were conducted at the United States
-Conference on Teaching Statistics (USCOTS). This year, likely due to these
-workshops, I was asked to serve on the planning committee for USCOTS
-2021--co-chairing the planning of the pre-conference workshop. Planning this
-year's conference has been a challenge--it is being run virtually--and I am
-excited to serve in this capacity for a conference that has had a big impact
-on my career.
+teaching data science, two of which part of the United States Conference on
+Teaching Statistics (USCOTS). This year, likely due to these workshops, the
+co-chairs of USCOTS 2021 invited me to serve on the planning
+committee--co-chairing the pre-conference workshop's planning. Planning this
+year's conference has been a challenge--it is virtual--and I am excited to
+serve in this capacity, as USCOTS has had a significant impact on my career.
 
 ### Data Visualization in Python, SDSS 2019, Belleview, WA
 
 {{< figure src="/img/invited.png" title=" **Figure 1**: I organized and chaired an invited session for SDSS 2019 that brought in experts to teach the audience about data visualizations in Python.">}}
 
 At the request of Dr. Silas Bergen, I organized an invited session for the
-2019 Symposium on Data Science & Statistics (SDSS 2019) that focuses on
+2019 Symposium on Data Science & Statistics (SDSS 2019) that focused on
 inducing the audience to data visualization in Python. The first speaker,
 Stephen Elston from Quantia Analytic, introduced the audience to the
-MatPlotLib and the Seaborn libraries. This talk was designed to provide easy
-access to standard statistical visualizations. The second and third talks
-focus on Altair, which provides a visualization framework that (a) is based
-on the Grammar of Graphics, (b) allows visualization to be hosted on at sites
-such as GitHub and (b) is built on the Vega and Vega-Lite frameworks. These
-talks were presented by Dominik Moritz from the University of Washington
-and Kanit "Ham" Wongsuphasawat from Apple; two contributors to both Vega and
-Altair.
+MatPlotLib and the Seaborn libraries. Mr. Elston designed to provide easy
+access to standard statistical visualizations. Dominik Moritz from the
+University of Washington and Kanit "Ham" Wongsuphasawat from Apple designed
+the next two talks, which focused on Altair, a visualization framework that
+
+1. Is based on the Grammar of Graphics.
+2. Allows hosting visualization on sites such as GitHub.
+3. Is built on the Vega and Vega-Lite frameworks.
 
 ### A Course on Teaching Data Science, Project Next, 2020
 
 {{< figure src="/img/project_next.png" title=" **Figure 2**: Chris Malone and I developed and taught a Project NExT short course on teaching data science.">}}
 
-Shortly after earning a Ph.D., I was able to participate in Project NExT, a
-professional development program for new/recent Ph.D.s. This program had a
-big impact on my career and this year I had the opportunity to give back. Dr.
+Shortly after earning a Ph.D., I participated in Project NExT, a professional
+development program for new/recent Ph.D.s. This program had a significant
+impact on my career, and this year I had the opportunity to give back. Dr.
 Chris Malone and I taught a short course on teaching data science described
 below.
 

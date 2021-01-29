@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-For me the joys of teaching are two-fold. First, I take a lot of pleasure in
+For me, the joys of teaching are two-fold. First, I take a lot of pleasure in
 continually improving the pedagogy, curriculum, and administration of my
 various courses. Second, I treasure the opportunity to have a lasting impact
 on my student's lives. Next, I will provide evidence of substantial
@@ -23,47 +23,43 @@ contributions to student growth and development.
 
 ### Using the Flipped Classroom in STAT 110
 
-{{< figure src="/img/flipped_word_cloud.png" title="**Figure 1.** All sections of STAT 110 over the last five years have been implemented using the flipped classroom.  The word cloud highlights common words from students' comments on the flipped classroom.">}}
+{{< figure src="/img/flipped_word_cloud.png" title="**Figure 1.** All sections of STAT 110 over the last five years used the flipped classroom.  The word cloud highlights common words from students' comments on the flipped classroom.">}}
 
-Starting in the fall semester of 2016, STAT 110 were implemented using the
-[flipped classroom pedagogy](https://en.wikipedia.org/wiki/Flipped_classroom), 
-with lectures were provided outside of class in the form of short videos embedded in an online
-textbook and class time reserved for supplemental activities design to reinforce the material. students worked on homework in class. 
+Starting in the fall semester of 2016, sections of STAT 110 used the [flipped
+classroom pedagogy](https://en.wikipedia.org/wiki/Flipped_classroom), where
+students watched short lecture videos embedded in an online textbook before
+class and then used class time to complete supplemental activities design to
+reinforce the lecture material.
 
-{{< figure src="/img/flipped_response.png" title=" **Figure 2**: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response. ">}}
+{{< figure src="/img/flipped_response.png" title=" **Figure 2**: I asked STAT 110 students to comment on the flipped classroom. The following table summarizes the responses, where a large majority of the students giving a positive response. ">}}
 
 Research indicates that the flipped classroom can be effective. For example,
 [Zheng et al. (2020)](https://www.jstor.org/stable/10.2307/26915403)
 performed a meta-analysis on 95 studies that involved 15,386 participants and
 found that the flipped classroom had a moderate effect on both learning
 achievement and learning motivation. Additionally, they were able to show
-that watching teaching videos before each class had the largest effect on
-learning.
+that watching teaching videos before each class had the most significant
+impact on learning.
 
 {{< figure src="/img/act_and_videos.png" title=" **Figure 3**: STAT 110 students were asked to comment on the flipped classroom. The following table summarizes the responses with a large majority of the students giving a positive response. ">}}
 
-In light of these findings, I wanted to look at my students' opinions of this
-approach. First, I looked at their response to the out-of-class videos and
-in-class activities. **Figure 3** provided a summary of student responses to
-two questions about both the out-of-class videos and in-class activities. In
-all cases, a large majority of students either strongly agreed or agreed
-that
+In light of these findings, I wanted to look at my students' opinions of this approach. First, I looked at their response to the out-of-class videos and in-class activities. **Figure 3** provided a summary of student responses to two questions about both the out-of-class videos and in-class exercises. In all cases, a large majority of students either strongly agreed or agreed that 
 
 1. The activities were enjoyable and beneficial and
-2. The videos were understandable and that they watched them all.
+2. The videos were understandable, and that they watched them all.
 
-{{< figure src="/img/sentiment_SVD.png" title=" **Figure 4**: A latent sentiment analysis and singular value decomposition was performed on the student evaluation responses to *Comment on the flipped classroom*.  A summary and exemplar of typical responses in each region is provided.">}}
+{{< figure src="/img/sentiment_SVD.png" title=" **Figure 4**: I  performed a latent sentiment analysis and singular value decomposition on the student evaluation responses to *Comment on the flipped classroom*.  The plot provides an overall summary and examples of typical responses in each region.">}}
 
 Finally, I was interested in exploring the students' written responses when
-prompted to respond to the flipped classroom. To help organize the responses
-from hundreds of students across four-plus years of running the course, JMP
-was used to perform a latent sentiment analysis and singular value
+prompted to respond to the flipped classroom. To help organize the answers
+from hundreds of students across four-plus years of running the course, I
+used JMP to perform a latent sentiment analysis and singular value
 decomposition. **Figure 4** provides a summary of the findings, where we find
 a cluster of very enthusiastic students in the top right, complaints about
 the time and efficacy of videos in the bottom right, and short positive and
 negative responses in the top and bottom left, respectively.
 
-    To further illustrate the enthusiam of some of the student responses, I have
+To further illustrate the enthusiasm of some of the student responses, I have
 selected several additional comments from the top right quadrant, which are
 provided below.
 
@@ -159,39 +155,39 @@ provided below.
 > 
 > I liked it, the online vidoes were helpfull and it was nicin being able to ask questions in class when I needed help. [460]
 
-In summary, I am very pleased with the design and effectiveness of the
-flipped classroom applied to STAT 110. I believe that this class, in
-particular, is a good fit for this pedagogy; as it is home to a large number
-of nursing majors who are very willing to put in the extra time. While I
-don't have explicit proof demonstrating improved student learning, my
-sense--based off of years teaching this material with a standard approach--is
-that it also fosters better outcomes.  
+In summary, I am happy with the design and effectiveness of the flipped
+classroom applied to STAT 110. In particular, I believe that this class is a
+good fit for this pedagogy, as it is home to a large number of nursing majors
+who are very willing to put in the extra time. While I don't have direct
+evidence demonstrating improved student learning, my sense--based on years
+teaching this material with a standard approach--also fosters better
+outcomes.
 
 Finally, spending semester after semester in the flipped classroom has made
-me a better instructor. It is hard to state how much I have learned, and
-subsequently improved the course material, by directly observing the students
-as they work together and ask questions.
+me a better instructor. It is hard to state how much I have learned and
+subsequently improved the course material by directly observing them as they
+work together and ask questions.
 
 ### Building an Online Textbook for STAT 110
 
 {{< figure src="/img/text_word_cloud.png" title=" **Figure 5**:  This word cloud highlights common words from students' comments on the online textbook I put together for STAT 110.">}}
 
-At my previous place of employment, I used an online textbook in an
-introductory programming course which was developed by Brad Miller and David
-Ranum from Luther College. This online textbook framework rethinks the role
-of a textbook in the age of the internet by allowing authors to embed videos
-and assessment questions in the body of the book. Furthermore, these authors have
-released an open-source Python library that can be used to construct your own.
+At my previous job, I used an online textbook in an introductory programming
+course developed by Brad Miller and David Ranum from Luther College. This
+online textbook framework rethinks the role of a textbook in the age of the
+internet by allowing authors to embed videos and assessment questions in the
+book's body. Furthermore, these authors have released an open-source Python
+library, allowing authors to construct their own material.
 
-{{< figure src="/img/book_MC.png" title=" **Figure 6**:  An example of the multiple-choice assessments that are embedded in the online course textbook I designed for STAT 110.">}}
+{{< figure src="/img/book_MC.png" title=" **Figure 6**:  This figure provides an example of the multiple-choice assessments embedded in the online course textbook I designed for STAT 110..">}}
 
-I decided that this type of book would be a good match to the flipped
-classroom approach to STAT 110. During the 2016-2017 academic year, I
-converted Dr. Tisha Hooks' course notes into such an online textbook. In the
-process, I made some adjustments to match the material to my preferences--in
-particular, introducing confidence intervals using on the StatKey
-website--and embedded short video lectures and multiple-choice The current
-version of the book can be found using [this link](https://yardsale8.github.io/stat110\_book/)
+I decided that this type of book would match the flipped-classroom approach
+to STAT 110. During the 2016-2017 academic year, I converted Dr. Tisha Hooks'
+course notes into an online textbook. In the process, I made some adjustments
+to match the material to my preferences--in particular, introducing
+confidence intervals using on the StatKey website--and embedded short video
+lectures and multiple-choice You can find the current version of the book
+using [this link](https://yardsale8.github.io/stat110\_book/)
 
 Here is a list of some of the book’s features. The book
 
@@ -210,13 +206,12 @@ Here is a list of some of the book’s features. The book
 
 {{< figure src="/img/book_comments.png" title=" **Figure 7**:  A summary of responses from student evaluations for the Fall 2017 term of STAT 110. A majority of the students like the online textbook (right-hand plot), identifying cost, ease of access, embedded lecture videos and embedded assessments as positive elements (left-hand plot).">}}
 
-At the end of each semester, students are asked to comment on the textbook.
+At the end of each semester, I ask students to comment on the textbook.
 **Figure 7** gives a summary of the results from the Fall 2017 semester. We
-can see that a large majority liked the book (right-hand plot) and elements
-that they found helpful (left-hand plot).  In particular, there was some
-very strong feedback related to the embedded multiple-choice questions that
-students could use for self-assessment. Here is an example of such a
-response.
+can see that many liked the book (right-hand plot) and elements that they
+found helpful (left-hand plot). In particular, there was some strong feedback
+related to the embedded multiple-choice questions that students could use for
+self-assessment. Here is an example of such a response.
 
 > *Yes, I thought It was useful. I liked \[t\]he few questions you would
 > provide at the bottom of each section or video. I appreciated the
@@ -228,4 +223,4 @@ While putting together the online interactive textbook for STAT 110 was
 time-consuming, it has paid enormous dividends over the last five years. In
 particular, this approach has made moving to online teaching, both
 asynchronously in the summers and synchronously in response to COVID-19, much
-more manageable and I would encourage anyone to give it a try.
+more manageable, and I would encourage anyone to give it a try.

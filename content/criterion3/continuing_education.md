@@ -42,12 +42,12 @@ preparation for teaching a special topics course in the spring of 2017, I
 completed a Coursera course on the Hadoop framework during the 2016 fall
 term.
 
-The curriculum for this course included an overview of the essential
-components of the Hadoop framework and the basics of writing MapReduce and
-Spark applications. Completing this course was a positive experience that
-directly impacted the curriculum in STAT 489 and inspired the associated
-textbook. This course also led me to learn the Spark SQL framework, and I
-subsequently incorporated this framework in DSCI 430.
+This course's curriculum included an overview of the essential components of
+the Hadoop framework and the basics of writing MapReduce and Spark
+applications. Completing this course was a positive experience that directly
+impacted the curriculum in STAT 489 and inspired the associated textbook.
+This course also led me to learn the Spark SQL framework, and I subsequently
+incorporated this framework in DSCI 430.
 
 You can see the certificate of completion for this course by navigating this
 [link](https://www.coursera.org/account/accomplishments/certificate/QRTQKUPSZDRY).
@@ -119,8 +119,8 @@ online courses meet these goals. On the flip side, taking the class
 reinforced that I can improve my teaching by building better rubrics to
 improve my expectations and feedback.
 
-One of the goals of the WeTeach courses is to introduce the requirements for
-certifying a course under Quality Matters and encourage faculty to apply for
-this certification. I am in the process of setting up STAT 110 to meet the
-expectations, and also plan to submit the DSCI 611 course that I am creating
-for HLA for certification.
+One of the WeTeach courses' goals is to introduce the requirements for
+certifying a class under Quality Matters and encourage faculty to apply for
+this certification. I am setting up STAT 110 to meet the expectations and
+plan to submit the DSCI 611 course that I am creating for HLA for
+certification.
