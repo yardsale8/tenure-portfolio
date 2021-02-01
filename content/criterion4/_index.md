@@ -29,7 +29,7 @@ For me, the joys of teaching are two-fold.
 
 First, I take a lot of pleasure in continually improving the pedagogy,
 curriculum, and administration of my various courses. My primary focus when
-making improvements in student learning, which outweighs all other academic
+making improvements is student learning, which outweighs all other academic
 concerns. I will provide evidence of these concerns by discussing my efforts
 to [develop student-centered curricula]({{<ref "student_centered.md">}}).
 

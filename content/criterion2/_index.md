@@ -30,7 +30,7 @@ conferences), and organizing and running pre-conference workshops on the Winona
 State approach to teaching data science (collaboration in the scholarly
 growth of peers and other scholars).
 
-### Developing Web Applications for the Teaching and Learning of Statistic
+### Developing Web Applications for the Teaching and Learning of Statistics
 
 I have created five web applications for teaching and
 learning statistics in introductory and upper-division courses. The first
