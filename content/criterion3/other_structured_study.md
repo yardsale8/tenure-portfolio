@@ -57,7 +57,7 @@ My second course of self-guided study helped me create DSCI 330 and DSCI 430,
 two new electives developed for the data science program. Each class required
 me to master new topics and software tools, as discussed below.
 
-#### Mastering Two (and a Half New) Python Platforms**
+#### Mastering Two (and a Half New) Python Platforms
 
 In the creation of materials for DSCI 430, I needed to learn three Python
 platforms used to manage structured data: dfply, a module for processing
@@ -69,7 +69,7 @@ The act of working through problems in all three frameworks has also
 reaffirmed that this is all of the same stuff and a realization that
 has had a profound effect on my teaching in all data science courses.
 
-#### Learning to Process Audio and Image Data**
+#### Learning to Process Audio and Image Data
 
 As suggested by the name, DSCI 330 The Management of Unstructured Data
 focuses on managing various forms of data that do not fit neatly in tables.
