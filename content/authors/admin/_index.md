@@ -66,7 +66,7 @@ user_groups:
 
 I present this online portfolio in support of my application for tenure and
 promotion to the rank of Associate Professor in the Department of Mathematics
-and Statistic. This portfolio will differ from most. I came to Winona
+and Statistics. This portfolio will differ from most. I came to Winona
 State University as an experienced teacher, having accumulated nearly 20 years of
 teaching experience and holding tenure and the ranks of Associate
 Professor and Chair of the Department of Mathematics, Computer Science, and
