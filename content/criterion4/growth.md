@@ -33,7 +33,7 @@ have learned while working on a real-world problem with a team of peers.
 {{< figure src="/img/MinneMUDAC17.png" title="**Figure 2.** Five Winona State teams participated in MinneMUDAC 2017, winning the First Place Overall and Acumen awards.  Two other teams received an honorable mention. ">}}
 
 At the start of each competition, I collaborated with Dr. Chris Malone to
-organized meetings with the participants in the weeks leading up to the main
+organize meetings with the participants in the weeks leading up to the main
 event. We held the gatherings once or twice a week and used the time to
 prepare the competitions, particularly in two areas. First, we reviewed the
 problem and techniques that the teams could use to answer the related
