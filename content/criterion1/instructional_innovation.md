@@ -31,7 +31,7 @@ online courses.
 
 When meeting face-to-face, I implement this course using the flipped
 classroom, which I discuss in more depth in the section on [criterion
-4]({{<ref "/criterion4/student_centered.md">}}. I will highlight a few
+4]({{<ref "/criterion4/student_centered.md">}}). I will highlight a few
 additional innovations here. First, I embedded self-assessment
 multiple-choice questions in an online and interactive set of course notes,
 allowing students to check their understanding and review the material
