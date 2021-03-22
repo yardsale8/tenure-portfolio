@@ -58,10 +58,10 @@ should include courses on each.
 
 {{< figure src="/img/uscots19_core_block_1_and_3.png" title="**Figure 2.** The two blocks that I help create and present scored high in terms of overall quality, presentation, and the quality of the break-out activities.">}}
 
-I create and present two of the four blocks, collaborating with Dr. Chris
-Malone to the first block (The Intro Class) and Drs. Hooks and Kerby on the
+I created and presented two of the four blocks, collaborating with Dr. Chris
+Malone on the first block (The Intro Class) and Drs. Hooks and Kerby on the
 third (Data Management). As shown in **Figure 2**, both of these sections
-score high in overall format, presentation, and the quality of break-out
+scored high in overall format, presentation, and the quality of break-out
 activities. 
 
 Finally, I would like to highlight our success on two additional goals by focusing on some responses to the questions *What were the most valuable aspects of the workshop?* (**Most Valuable:** ) and *If you were to implement one thing from the workshop, what would that be?* (**Implement**). 
@@ -102,7 +102,7 @@ collaboration with Dr. Bergen. The final result was an invitation to present
 a pre-conference workshop presented at SDSS 2019 that was a resounding
 success.
 
-#### Web Scraping and Data Visualization with Python ad Tableau. USCOTS 2017 
+#### Web Scraping and Data Visualization with Python and Tableau. USCOTS 2017 
 
 {{< figure src="/img/uscots17_banner.png" title="**Figure 4.** Dr. Bergen and I ran a USCOTS workshop that took participants through the entire data cycle.">}}
 
@@ -227,7 +227,7 @@ at a [pre-conference workshop for SDSS
 2019](https://ww2.amstat.org/meetings/sdss/2019/onlineprogram/Program.cfm),
 which was our second time presenting this workshop (see above), and we made several improvements.
 
-{{< figure src="/img/sdss19_block2.png" title="**Figure 9.** Again, I in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.">}}
+{{< figure src="/img/sdss19_block2.png" title="**Figure 9.** Again, I was in charge of the second block of the workshop, but this time we compared the code for visualization in Altair (Python) and ggplot (R) to reinforce the concepts of the grammar of graphics introduced in the first block.">}}
 
 Based on participant feedback from the last workshop, I made several changes
 to the workshop's second block. Instead of getting bogged down in Python and
