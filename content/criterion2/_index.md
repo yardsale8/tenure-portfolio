@@ -38,7 +38,7 @@ three applications build on the pedagogical approach pioneered by my
 colleagues Drs. Hooks and Malone offer a more modern interface than the
 previous solution while being freely available on the web. These applications
 represent my most substantial creative and scholarly work, are used in the
-classroom by a majority of the statistic faculty at Winona State, and have
+classroom by a majority of the statistics faculty at Winona State, and have
 even been featured in a presentation by my colleague Dr. Chris Malone.
 
 ### Presentations at National Conferences
