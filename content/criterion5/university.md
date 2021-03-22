@@ -65,7 +65,8 @@ In preparation for the 2017 MUDAC competition, the statistics and data
 science faculty decided to include a new competition component. The general
 sentiment was that, in past years, scores too heavily favored a team’s
 presentation skills and didn't account for groups that had more advanced
-analytics skills did not get the recognition we believed they deserved.
+analytics skills. We decided these analytic skills should have a larger role in
+determining the outcome of the competition moving forward.
 
 To facilitate this new part of the competition, I took on the responsibility
 for the implementation and operation of two competitions using Kaggle. First,
