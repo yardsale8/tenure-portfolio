@@ -88,7 +88,7 @@ summarize below. As is often the case, the changes made while teaching online
 have also greatly benefitted my regular face-to-face courses.
 
 **Organizational Challenges.** As discussed in the section on [criterion
-*3]({{<ref
+3]({{<ref
 "/criterion3/continuing_education.md">}}), I first took the WeTeach courses
 in the spring of 2017 and then revisited (and finally completed) this course
 in the summer of 2020. WeTeach has had a big impact on my online teaching,
@@ -110,7 +110,7 @@ self-assessment problems--before attempting Activity 5.1. Then they move on
 to reading Section 5.2 and completing Activity 5.2, and so forth.
 
 **Translating in-class group activities.** I faced another challenge when
-*adapting my
+adapting my
 classroom learning activities, which students complete in groups, to an
 online setting. The asynchronous nature of an online summer course precluded
 asking the students to work in groups, so I decided to do my best to mimic
@@ -159,7 +159,7 @@ found that I am more efficient in grading three assessments consisting of
 similar problems.
 
 **Authentic assessments.** After encountering issues with too much student
-collaboration on homework assignments, I move as much material to D2L quizzes
+collaboration on homework assignments, I moved as much material to D2L quizzes
 as possible. Furthermore, multiple-choice and written assessments both pull
 questions from a random bank of similar problems, making it harder for
 students to collaborate on the quizzes (they likely get different items in a
@@ -175,8 +175,9 @@ Next, I will discuss a novel project I developed for STAT 310.
 STAT 310 has recently become a writing-intensive course, so I developed a
 project to facilitate written reports along with my colleague Dr. Tisha
 Hooks. In this project, students work in groups to design and implement an
-experiment on [The Islands](http://smp-island.smp.uq.edu.au/index.php) (see
-**Figure 5**), a virtual environment that provides a (relatively) authentic
+experiment on [The Islands](https://islands.smp.uq.edu.au/) (see
+**Figure 4**), a virtual environment created by Dr Michael Bulmer from the University of Queensland, 
+that provides a (relatively) authentic experience
 working with human subjects. Like real-world studies on human subjects,
 students must gain consent before working with a resident, and residents have
 a habit of dropping out of the study. Students must think about realistic
@@ -185,7 +186,7 @@ the IQ of a resident to change over a short period. Finally, as in real life,
 obtaining a simple random sample is nearly impossible, and students need
 to find a decent alternative sampling scheme.
 
-{{< figure src="/img/islands.png" title="**Figure 3.** The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study. ">}}
+{{< figure src="/img/islands.png" title="**Figure 4.** The Islands is a virtual environment that allows students to conduct virtual experiments and studies. The three islands contain residents who can be found in their residence. After gaining consent, students can assign each resident a task as part of a larger study. ">}}
 
 
 While the first run of the project was promising, one problem that both Dr.
@@ -210,7 +211,7 @@ When redesigning this project, I reviewed the literature on
 pilot studies, and found two excellent articles to share with students.
 In particular, Thabane et al. provide several resources,
 including a detailed outline for reporting on a pilot study as seen in
-**Figure 6**.
+**Figure 5**.
 
 In the revised version of the projects, students still started working in a
 group to propose a study. After getting some feedback from the instructor,
@@ -224,7 +225,7 @@ conducted more extensive research based on the winning design, with the
 winning team in charge of managing the class’s work. Finally, each student
 wrote a final report on the class’s results.
 
-{{< figure src="/img/pilot_study.png" title=" **Figure 4.** Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports. ">}}
+{{< figure src="/img/pilot_study.png" title=" **Figure 5.** Thabane et al. provide, among other things, a detailed outline for a pilot study; which I found a useful guide for student reports. ">}}
 
 I was pleased with the results of this project. Working with the Islands is a
 valuable and fun exercise, evidenced by the student enthusiasm Dr. Hooks and
@@ -235,7 +236,7 @@ then writing about the resulting main winning design offered the students a
 chance to see two variations on reporting results; with each report
 tailored to the goals of the respective design.
 
-{{< figure src="/img/example_project.png" title=" **Figure 5.** One group performed a randomized experiment comparing the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.">}}
+{{< figure src="/img/example_project.png" title=" **Figure 6.** One group performed a randomized experiment comparing the effects of petting two types of animals to a baseline control.  As expected, petting a crocodile raises the average heart rate compared to the other two treatment groups.">}}
 
 My colleague Dr. Tisha Hooks used this project in her subsequent STAT 310 courses, and her comments (taken from her [letter of support](/testimonial/hooks_letter_of_support.pdf/))
 
