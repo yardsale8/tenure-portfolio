@@ -19,7 +19,7 @@ I like to program.
 The programming allows me to enter a state of flow, and I find nothing more
 enjoyable than whiling the hours away as I dig into a complicated development
 task. Luckily I have been able to find a productive avenue for this passion.
-In this section, I will highlight five different web applications, each of
+In this section, I will highlight six different web applications, each of
 which has not only been incorporated in courses at Winona State but is also
 open-sourced and freely available to anyone on the web. Furthermore, I
 designed them using modern technology to be fast, portable, and affordable.
@@ -108,9 +108,9 @@ there is no need to account for the variability between two students'
 results. Furthermore, a large number of trials also facilitates introducing
 the law of large numbers and the exact binomial test.
 
-#### A Web Applications for the Exact Binomial Test
+#### A Web Application for the Exact Binomial Test
 
-The Hooks-Malone approach transitions from the less-formal, more initiative
+The Hooks-Malone approach transitions from the less-formal, more intuitive
 simulations to the more-formal exact binomial test. Unfortunately, the
 technology used to run the exact binomial test varied from instructor to
 instructor and was frankly fairly clunky. Some instructors used a spreadsheet
@@ -181,9 +181,9 @@ allowing for response surface designs.
 
 #### Two Simulated Experiment Web Applications
 
-{{< figure src="/img/welding_experiments.png" title="**Figure 7.** Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.">}}
+{{< figure src="/img/welding_experiments.png" title="**Figure 5.** Two web applications that allow students to design and run a simulated ultrasonic welding experiment. The left-hand application facilitates both full and fractional factorial designs. The right-hand application adds four operators to allow for blocking.">}}
 
-The two applications are illustrated in **Figure 8**, where [left-hand
+The two applications are illustrated in **Figure 5**, where [left-hand
 application](https://wsu-datascience.github.io/weld_strength_experiment/)
 facilitates a full or fractional factorial design, while [right-hand
 application](https://wsu-datascience.github.io/welding_strength_blocking/)
