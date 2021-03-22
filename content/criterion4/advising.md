@@ -73,6 +73,6 @@ research projects, it does require ensuring that the job description meets
 the needs of STAT/DSCI 488, obtaining self and supervisor assessments of
 performance, and translating those assessments into a final grade. Based on
 my experiences with the first few internships, I have improved the student
-experience by helping formalizes the application and requirements and
+experience by helping formalize the application and requirements and
 developing Qualtrics surveys used for self and supervisor performance
 evaluations.
