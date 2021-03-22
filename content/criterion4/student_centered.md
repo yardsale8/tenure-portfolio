@@ -186,7 +186,7 @@ to STAT 110. During the 2016-2017 academic year, I converted Dr. Tisha Hooks'
 course notes into an online textbook. In the process, I made some adjustments
 to match the material to my preferences--in particular, introducing
 confidence intervals using on the StatKey website--and embedded short video
-lectures and multiple-choice You can find the current version of the book
+lectures and multiple-choice questions. You can find the current version of the book
 using [this link](https://yardsale8.github.io/stat110\_book/)
 
 Here is a list of some of the book’s features. The book
