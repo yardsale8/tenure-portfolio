@@ -48,7 +48,7 @@ In informal conversations, Dr. Chris Malone has indicated that he hoped I
 would improve the data science curriculum in general and programming skills
 of our students in particular. By the end of this section, you will have seen
 evidence of my contributions in both of these areas; as well as examples of
-contributions to the statistic program.
+contributions to the statistics program.
 
 ## Curriculum Development for Data Science
 
@@ -75,7 +75,7 @@ files.
 **Rationale.** This course fills a void in the previous curriculum.
 It's estimated that between 50% and 80% of all new data is unstructured (see
 [Unstructured Data and the 80%
-Rule](http://breakthroughanalysis.com/2008/08/01/unstructured-data-and-the-80-percent-rule/).
+Rule](http://breakthroughanalysis.com/2008/08/01/unstructured-data-and-the-80-percent-rule/)).
 Current and future data scientists will rely on the skills needed to gain
 insight from these data sources. Before adding these courses, the program had
 several offerings that provided students with experience working with
@@ -198,8 +198,8 @@ beliefs on data science curriculum and pedagogy. A summary of these beliefs foll
 **Software-agnostic data management.** Many books and courses on data science
 focus on teaching specific technologies or platforms. Instead, we should
 provide students with a general abstract vocabulary for solving data
-management and visualization tasks. This language is subsequently to
-several technologies. DSCI 210 now incorporates this approach by teaching
+management and visualization tasks. This language is subsequently translated to
+several specific technologies, such as JMP and R. DSCI 210 now incorporates this approach by teaching
 data management verbs, then translating these verbs to JMP, OpenRefine, and
 R.
 
@@ -282,7 +282,7 @@ assignment shared 4 questions, while the STAT 210 assignments had a
 110. Both courses used the same set of practice and regular quizzes.
 
 This approach was a success in two ways. First, I (almost) made it through
-that semester with my sanity in tack. There is another advantage to going
+that semester with my sanity intact. There is another advantage to going
 through the process of aligning these courses. Students that change to a
 major that requires STAT 210 have a problem if they have previously completed
 STAT 110: You cannot count both toward graduation.
@@ -292,7 +292,7 @@ STAT 210 (a test), but that mechanism is lost to time. After aligning these
 two courses, I piloted using the supplementary material developed for STAT
 210 as a mechanism for satisfying a STAT 210 requirement, where students
 complete the additional activities and assessments designed for STAT 210 and
-are receive a course substitution upon completion. 
+can receive a course substitution upon completion. 
 
 ## Summary
 
