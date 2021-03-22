@@ -45,7 +45,7 @@ completing the [standard Elm tutorials](https://guide.elm-lang.org), but the
 best way to learn a programming language is to build something. I spent a
 significant part of the 2018 summer break creating the exact binomial
 application (discussed in more detail in the section on [criterion 2]({{<ref
-"criterion2/software.md">}}))). It is a testament to the Elm language's
+"criterion2/software.md">}})). It is a testament to the Elm language's
 simplicity that I could go from knowing nothing to build a complete
 application in one summer. Since then, I have continued to gain mastery in
 Elm by, for example, learning to add animations to the binomial simulation
