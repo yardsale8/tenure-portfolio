@@ -36,7 +36,7 @@ to [develop student-centered curricula]({{<ref "student_centered.md">}}).
 Second, I treasure the opportunity to have a lasting impact on my student's
 lives. Few other fields allow one to make a lasting impact on so many
 individuals, and we get the added benefit of working with young adults--which
-keeps us young at heart. My effect on Winona State students is be evidenced
+keeps us young at heart. My effect on Winona State students is evidenced
 by [assisting in the scholarly growth of students]({{<ref "growth.md">}}) and
 through [various advising activities]({{<ref "advising.md">}}), be it
 academic advising or supervising a capstone experience.
