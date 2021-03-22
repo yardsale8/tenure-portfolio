@@ -83,7 +83,8 @@ here](testimonial/data_camp_data_cleaning.pdf).
 #### Elixir—Developing with Elixir/OTP
 
 In addition to building client-side educational application, like those
-highlighted under [criterion 2]({{<ref "/criterion2/software.md" >}}). While
+highlighted under [criterion 2]({{<ref "/criterion2/software.md" >}}), 
+I would also like to be able create client-server websites. While
 the Elm programming language is great for creating responsive modern
 client-side applications, it requires an interface with another language when
 creating client-server applications. 
