@@ -23,9 +23,9 @@ reader that I provide noteworthy instruction in many content areas.
 
 #### More on Student Evaluations
 
-I place a lot of value on feedback from student evaluations. I have examples
-of how I incorporate and respond to student feedback is illustrated
-throughout the portfolio, for example, in the in-depth evaluation of student
+I place a lot of value on feedback from student evaluations. I have provided examples
+of how I incorporate and respond to student feedback throughout the portfolio, 
+for example in the in-depth evaluation of student
 feedback related to the flipped classroom in [the section building
 student-centered curricula]({{<ref "/criterion4/student_centered.md">}}).
 
