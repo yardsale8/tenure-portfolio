@@ -198,8 +198,8 @@ beliefs on data science curriculum and pedagogy. A summary of these beliefs foll
 **Software-agnostic data management.** Many books and courses on data science
 focus on teaching specific technologies or platforms. Instead, we should
 provide students with a general abstract vocabulary for solving data
-management and visualization tasks. This language is subsequently translated to
-several specific technologies, such as JMP and R. DSCI 210 now incorporates this approach by teaching
+management and visualization tasks. This language can subsequently translated to
+several specific technologies throughout the curriculum. DSCI 210 now incorporates this approach by teaching
 data management verbs, then translating these verbs to JMP, OpenRefine, and
 R.
 
